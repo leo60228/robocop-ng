@@ -260,6 +260,8 @@ welcome_rules = (
      • ReSwitched neither wants nor needs your server boosts, and your money is better off elsewhere. Consider the EFF (or a charity of your choice).
      • Boosting the server is liable to get you kicked (to remove the nitro boost role), and/or warned. Roles you possessed prior to the kick may not be restored in a timely fashion.
     """,
+    # 12
+    "no homestuck",
 )
 
 
